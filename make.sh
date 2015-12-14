@@ -1,3 +1,4 @@
+#!/bin/sh
 DOCKER_MACHINE='default'
 DOCKER_IMAGE='laos-firmware-builder'
 DOCKER_CONTAINER='laos-firmware-builder'
